@@ -1,11 +1,11 @@
 # Site settings
 author: Nathan Rathe
-title: 
+title: Sinatra Portfolio Project
 header-img: img/home-bg.png
 email: nprathe10@gmail.com
 copyright_name: Nathan Rathe
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Creating a Game Review App
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  RatheN
